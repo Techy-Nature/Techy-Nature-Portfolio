@@ -1,3 +1,8 @@
+body {
+  float: middle;
+  background-color: rgb(132, 207, 204);
+}
+
 a {
     display: block;
     padding: 8px;
